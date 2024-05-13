@@ -1,4 +1,4 @@
 @echo off
-chcp 1251
-start "" "E:\аня\АК\lab3.docx"
+chcp 65001
+start "" "E:\Р°РЅСЏ\РђРљ\lab3.docx"
 pause
